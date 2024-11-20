@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Leo 工具包",
   "description": "場景控制器、輸出、音效管理器與播放音效",
-  "unity": "2022.3.47f1",
+  "unity": "2022.3",
 
   "author": {
     "name": "Leo",
